@@ -73,7 +73,7 @@ Dataset yang digunakan:
     cd ml-titanic
     ```
 2. Jalankan Notebook:
-    - Buka `titanic_model.ipynb` di Jupyter Notebook / VS Code / Google Colab
+    - Buka `project_titanic.ipynb` di Jupyter Notebook / VS Code / Google Colab
     - Jalankan sel-sel secara berurutan
 
 ## 📝 Catatan
